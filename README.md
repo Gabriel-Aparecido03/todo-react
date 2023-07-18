@@ -55,5 +55,3 @@ npm run dev
 ```
 
 ---
-
-Feito com 💜 por [Mateus Abelli](https://github.com/mateusabelli)
