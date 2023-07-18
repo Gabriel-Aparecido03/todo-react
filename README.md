@@ -39,10 +39,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/mateusabelli/ignite-todo-app.git
+
+git clone https://github.com/Gabriel-Aparecido03/todo-react.git
 
 # Acesse a pasta do projeto
-cd ignite-todo-app
+cd todo-react
 
 # Instale as dependências
 npm install
@@ -52,8 +53,6 @@ npm run dev
 
 # O servidor inciará na porta:3000 - acesse http://localhost:3000
 ```
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
 
 ---
 
